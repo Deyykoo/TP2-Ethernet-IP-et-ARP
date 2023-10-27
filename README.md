@@ -25,9 +25,10 @@ II- ARP my bro
 1- commande = arp -a ou arp -g  
 adresse mac binome = d4-93-90-23-52-c9
 
->ipconfig /all  
+> ipconfig /all  
 Interface :  10.33.70.209 --- 0x10  
 Adresse Internet     Adresse physique      Type
 10.33.79.254          7c-5a-1c-d3-d8-76     dynamique
-```
-commande = arp -d  
+
+commande arp -d = vide la table arp 
+```	
